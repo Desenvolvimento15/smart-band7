@@ -1890,7 +1890,7 @@ format("woff");}
   width: 3.515625rem;
 }
 .overview_pc .div119 .div121 .spacer {
-  flex: 1 1;
+  flex: 3em;
 }
 .overview_pc .div119 .div121 .div124 {
   align-items: flex-end;
@@ -2060,7 +2060,7 @@ format("woff");}
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  margin-bottom: 0.49rem;
+  margin-bottom: 0.7rem;
   margin-left: -0.023438rem;
   min-height: 0.195313rem;
   width: 4.269531rem;
@@ -4032,22 +4032,7 @@ td,
 th {
   padding: 0;
 }
-body[themes="en"] {
-  font-family: proximanova, arial, sans-serif;
-  font-weight: 400;
-}
-body[themes="zh"] {
-  font-family: Microsoft Yahei, Hiragino Sans GB, sans-serif;
-  font-weight: 400;
-}
-body {
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background-color: #f5f5f5;
-  color: #757575;
-  font-size: 14px;
-  line-height: 1.5;
-}
+
 h1,
 h2,
 h3,
