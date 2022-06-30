@@ -543,7 +543,7 @@ format("woff");}
   flex-direction: row;
   justify-content: flex-start;
   margin-bottom: 0.089844rem;
-  margin-left: 0.257813rem;
+  margin-left: 0.457813rem;
   min-height: 0.261719rem;
   width: 4.351563rem;
 }
@@ -554,14 +554,13 @@ format("woff");}
   justify-content: center;
   margin-bottom: 0.007813rem;
   min-height: 0.253906rem;
-  width: 0.867188rem;
 }
 .overview_pc .div30 .div31 .div35 .div36 .split_text633 {
   color: #fda11b;
   font-family: CamphorProForXiaoMi-Bold;
   font-size: 0.351563rem;
   line-height: 1;
-  text-align: left;
+  text-align: center;
   width: 1.367188rem;
 }
 .overview_pc .div30 .div31 .div35 .spacer {
@@ -659,7 +658,7 @@ format("woff");}
   font-family: CamphorProForXiaoMi-Bold;
   font-size: 0.101563rem;
   line-height: 0.117188rem;
-  text-align: left;
+  text-align: center;
   width: 1.67188rem;
 }
 .overview_pc .div30 .div31 .div41 .div43 {
@@ -692,8 +691,8 @@ format("woff");}
   font-family: CamphorProForXiaoMi-Thin;
   font-size: 0.09375rem;
   line-height: 0.117188rem;
-  text-align: left;
-  width: 1.367188rem;
+  text-align: center;
+  width: 1.67188rem;
 }
 .overview_pc .div30 .image45 {
   height: 6.878906rem;
@@ -749,31 +748,33 @@ format("woff");}
   min-height: 0.269531rem;
   width: 3.207031rem;
 }
+
 .overview_pc .div46 .div47 .div49 .split_text638 {
   color: #fff;
   font-family: CamphorProForXiaoMi-Bold;
   font-size: 0.28125rem;
   line-height: 0.3125rem;
-  text-align: left;
+  text-align: center;
   width: 3.242188rem;
 }
+
 .overview_pc .div46 .div47 .div50 {
   align-items: flex-start;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin-left: 0.007813rem;
+  margin-left: 0.41rem;
   min-height: 0.328125rem;
-  width: 2.902344rem;
 }
+
 .overview_pc .div46 .div47 .div50 .split_text637 {
   color: #fff;
   font-family: CamphorProForXiaoMi-Light;
   font-size: 0.097656rem;
   line-height: 0.121094rem;
   opacity: 0.6;
-  text-align: left;
-  width: 2.933594rem;
+  text-align: center;
+  width: 2.5rem;
 }
 .overview_pc .div52 {
   align-items: center;
