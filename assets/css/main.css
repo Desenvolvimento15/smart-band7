@@ -698,6 +698,7 @@ format("woff");}
 .overview_pc .div30 .image45 {
   height: 6.878906rem;
   width: 7.304688rem;
+  margin-left: 0.5rem;
 }
 .overview_pc .div46 {
   align-items: center;
@@ -717,7 +718,6 @@ format("woff");}
 .overview_pc .div46 .div47 {
   align-items: flex-start;
   margin-bottom: -0.761719rem;
-  margin-left: -1.054688rem;
   min-height: 1.0625rem;
   width: 3.21875rem;
   z-index: 1;
@@ -736,7 +736,7 @@ format("woff");}
   font-family: CamphorProForXiaoMi-Thin;
   font-size: 0.28125rem;
   line-height: 0.3125rem;
-  text-align: left;
+  text-align: center;
   width: 3.253906rem;
 }
 .overview_pc .div46 .div47 .div49 {
