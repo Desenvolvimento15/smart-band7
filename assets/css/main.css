@@ -2,22 +2,8 @@
 @font-face {font-family: CamphorPro-Regular; src: url(./fonts/CamphorProForXiaoMi-Regular.woff)format("woff");}
 @font-face {font-family: CamphorPro-Bold; font-weight: 700; src: url(./fonts/CamphorProForXiaoMi-Bold.woff)format("woff");}
 @font-face {font-family: CamphorPro-Thin; src: url(./fonts/CamphorProForXiaoMi-Thin.woff) format("woff");}
-
-@font-face {font-family: Camphor-Heavy; font-weight: 900; src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/CamphorProForXiaoMi/CamphorProForXiaoMi-Heavy.woff) format("woff");}
-
-@font-face {font-family: CamphorPro-Medium; src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/CamphorProForXiaoMi/CamphorProForXiaoMi-Medium.woff) format("woff");}
-
-@font-face {font-family: CamphorProForXiaoMi-Light; src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/CamphorProForXiaoMi/CamphorProForXiaoMi-Light.woff) format("woff");}
-
-@font-face {font-family: CamphorProForXiaoMi-Regular; src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/CamphorProForXiaoMi/CamphorProForXiaoMi-Regular.woff) format("woff");}
-
-@font-face {font-family: CamphorProForXiaoMi-Bold; font-weight: 700; src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/CamphorProForXiaoMi/CamphorProForXiaoMi-Bold.woff)format("woff");}
-
-@font-face {font-family: CamphorProForXiaoMi-Thin; src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/CamphorProForXiaoMi/CamphorProForXiaoMi-Thin.woff)format("woff");}
-
-@font-face {font-family: CamphorProForXiaoMi-Heavy; font-weight: 900; src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/CamphorProForXiaoMi/CamphorProForXiaoMi-Heavy.woff) format("woff");}
-
-@font-face {font-family: CamphorProForXiaoMi-Medium; src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/CamphorProForXiaoMi/CamphorProForXiaoMi-Medium.woff)format("woff");}
+@font-face {font-family: Camphor-Heavy; font-weight: 900; src: url(./fonts/CamphorProForXiaoMi-Heavy.woff) format("woff");}
+@font-face {font-family: CamphorPro-Medium; src: url(./fonts/CamphorProForXiaoMi-Medium.woff) format("woff");}
 
 .f-heavy {font-family: Camphor-Heavy, sans-serif; font-weight: 900;}
 .f-regular {font-family: CamphorPro-Regular, sans-serif;}
