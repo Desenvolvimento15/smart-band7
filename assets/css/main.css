@@ -47,12 +47,14 @@ format("woff");}
   margin-bottom: 0.507813rem;
   min-height: 5.476563rem;
 }
+
 .overview_pc .div2 .image3 {
   height: 5.476563rem;
   margin-bottom: -4.804688rem;
   width: 10rem;
   z-index: 0;
 }
+
 .overview_pc .div2 .div4 {
   align-items: flex-start;
   display: flex;
@@ -64,6 +66,7 @@ format("woff");}
   width: 2.367188rem;
   z-index: 2;
 }
+
 .overview_pc .div2 .div4 .split_text606 {
   color: #000;
   font-family: CamphorProForXiaoMi-Bold;
@@ -2061,7 +2064,7 @@ format("woff");}
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  margin-bottom: 0.7rem;
+  margin-bottom: 0.63rem;
   margin-left: -0.023438rem;
   min-height: 0.195313rem;
   width: 4.269531rem;
@@ -2149,7 +2152,7 @@ format("woff");}
   justify-content: flex-start;
   min-height: 0.195313rem;
   width: 5.144531rem;
-  margin-bottom: -0.2rem;
+  margin-bottom: -0.1rem;
 }
 .overview_pc .div132 .div133 .div141 .div142 {
   align-items: center;
