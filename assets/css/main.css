@@ -1023,7 +1023,6 @@ format("woff");}
   justify-content: flex-start;
   margin-bottom: 0.644531rem;
   min-height: 6.152344rem;
-  width: 6.796875rem;
   z-index: 5;
 }
 .overview_pc .div68 .div69 {
@@ -1050,9 +1049,9 @@ format("woff");}
   flex-direction: column;
   justify-content: center;
   margin-bottom: 0.253906rem;
-  margin-left: -0.21875rem;
+
   min-height: 0.269531rem;
-  width: 4.59375rem;
+  
 }
 .overview_pc .div68 .div70 .split_text670 {
   color: #070707;
@@ -1060,7 +1059,6 @@ format("woff");}
   font-size: 0.28125rem;
   line-height: 0.3125rem;
   text-align: center;
-  width: 5.070313rem;
 }
 .overview_pc .div68 .scroll_box {
   position: relative;
