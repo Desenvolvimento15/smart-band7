@@ -1,11 +1,7 @@
-@font-face {font-family: CamphorPro-Light; src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/CamphorProForXiaoMi/CamphorProForXiaoMi-Light.woff)
-format("woff");}
-@font-face {font-family: CamphorPro-Regular; src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/CamphorProForXiaoMi/CamphorProForXiaoMi-Regular.woff)
-format("woff");}
-@font-face {font-family: CamphorPro-Bold; font-weight: 700; src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/CamphorProForXiaoMi/CamphorProForXiaoMi-Bold.woff)
-format("woff");}
-
-@font-face {font-family: CamphorPro-Thin; src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/CamphorProForXiaoMi/CamphorProForXiaoMi-Thin.woff) format("woff");}
+@font-face {font-family: CamphorPro-Light; src: url(./fonts/CamphorProForXiaoMi-Light.woff)format("woff");}
+@font-face {font-family: CamphorPro-Regular; src: url(./fonts/CamphorProForXiaoMi-Regular.woff)format("woff");}
+@font-face {font-family: CamphorPro-Bold; font-weight: 700; src: url(./fonts/CamphorProForXiaoMi-Bold.woff)format("woff");}
+@font-face {font-family: CamphorPro-Thin; src: url(./fonts/CamphorProForXiaoMi-Thin.woff) format("woff");}
 
 @font-face {font-family: Camphor-Heavy; font-weight: 900; src: url(https://i01.appmifile.com/webfile/globalimg/miv4/font/CamphorProForXiaoMi/CamphorProForXiaoMi-Heavy.woff) format("woff");}
 
